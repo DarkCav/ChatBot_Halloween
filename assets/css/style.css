@@ -327,7 +327,7 @@ button{
     display: inline-block;
     background-color: var(--first-color);
     color: var(--title-color);
-    padding: 1rem 1.75rem;
+    padding: 2rem 1.75rem;
     border-radius: .5rem;
     font-weight: var(--font-medium);
     transition: .3s;
@@ -691,7 +691,7 @@ button{
   .scrollup{
     position: fixed;
     background: var(--container-color);
-    right: 1rem;
+    right: 2rem;
     bottom: -20%;
     display: inline-flex;
     padding: .3rem;
@@ -713,7 +713,7 @@ button{
   
   /* Show Scroll Up*/
   .show-scroll{
-    bottom: 3rem;
+    bottom: 6rem;
   }
   
   /*=============== SCROLL BAR ===============*/
